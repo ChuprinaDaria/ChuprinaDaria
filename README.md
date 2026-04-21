@@ -34,7 +34,7 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 |---|---|---|
 | 🔧 | [**Vibecode-Cleaner-Fartrun**](https://github.com/dchuprina/Vibecode-Cleaner-Fartrun) | Rust-powered code scanner with 29 MCP tools. Not another AI reviewing AI. |
 | 📖 | [**Not-Awesome-Claude-N.-Bohatska**](https://github.com/dchuprina/-Not-Awesome-Claude-N.-Bohatska) | Most useless repos that make your Claude an idiot. Anti-patterns for RAG systems. |
-| 🗓 | [**mcp-ukrainian-calendar**](https://github.com/dchuprina/mcp-ukrainian-calendar) | MCP server for Ukrainian pagan calendar — holidays, deities, folk wisdom. |
+| 🗓 | [**mcp-ukrainian-calendar**](https://github.com/dchuprina/mcp-ukrainian-calendar) | MCP server for Ukrainian pagan calendar — holidays, deities, folk wisdom. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/mcp-ukrainian-calendar) |
 
 ---
 
@@ -55,5 +55,9 @@ Embedded systems — secret passion. Linus Torvalds — unironic hero.
 *«Бо треба не всякою х\*йнею займатися, а жити інтєрєсно: читати книжки, бути шпіоном, дресирувати любіму обізьяну»*
 
 **— Лесь Подерев'янський**
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/dchuprina/) · [GitHub](https://github.com/ChuprinaDaria) · [Threads](https://www.threads.com/@sonya_orehovaya) · [Reddit](https://www.reddit.com/user/Illustrious_Grass534/) · [Email](mailto:dchuprina@lazysoft.pl)
 
 </div>
