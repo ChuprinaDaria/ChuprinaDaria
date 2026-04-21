@@ -32,9 +32,9 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 
 | | Project | About |
 |---|---|---|
-| 🔧 | [**Vibecode-Cleaner-Fartrun**](https://github.com/dchuprina/Vibecode-Cleaner-Fartrun) | Rust-powered code scanner with 29 MCP tools. Not another AI reviewing AI. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/vibecode-cleaner-fartrun) |
+| 🔧 | [**Vibecode-Cleaner-Fartrun**](https://github.com/ChuprinaDaria/Vibecode-Cleaner-Fartrun) | Rust-powered code scanner with 29 MCP tools. Not another AI reviewing AI. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/vibecode-cleaner-fartrun) |
 | 📖 | [**Not-Awesome-Claude-N.-Bohatska**](https://github.com/dchuprina/-Not-Awesome-Claude-N.-Bohatska) | Most useless repos that make your Claude an idiot. Anti-patterns for RAG systems. |
-| 🗓 | [**mcp-ukrainian-calendar**](https://github.com/dchuprina/mcp-ukrainian-calendar) | MCP server for Ukrainian pagan calendar — holidays, deities, folk wisdom. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/mcp-ukrainian-calendar) |
+| 🗓 | [**mcp-ukrainian-calendar**](https://github.com/ChuprinaDaria/mcp-ukrainian-calendar) | MCP server for Ukrainian pagan calendar — holidays, deities, folk wisdom. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/mcp-ukrainian-calendar) |
 
 ---
 
