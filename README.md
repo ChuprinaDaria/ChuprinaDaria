@@ -38,6 +38,30 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 
 ---
 
+### `> whoami`
+
+```python
+class Daria:
+    location  = "Wrocław, PL"
+    role      = "AI Engineer"
+    kids      = 2
+    coffee    = float("inf")
+
+    focus     = ["AI Agents", "MCP Tools", "RAG Pipelines"]
+    learning  = ["ML (the math, not just the API calls)"]
+    passion   = ["Embedded Systems", "Linux Kernel"]
+    hero      = "Linus Torvalds"  # unironic
+
+    addiction = "sci-fi"  # mass effect > sleep
+    spirit_animal = "Sheldon Cooper"  # BAZINGA!
+
+    @property
+    def available_hours(self):
+        return 24 - self.kids * 3  # optimistic estimate
+```
+
+---
+
 ### `> currently`
 
 ```
@@ -45,8 +69,6 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 🛠  Building MCP tools and AI agents
 📚 Reading more papers than a PhD student with a deadline
 ```
-
-Embedded systems — secret passion. Linus Torvalds — unironic hero.
 
 ---
 
