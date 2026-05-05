@@ -32,8 +32,8 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 
 | | Project | About |
 |---|---|---|
+| 🐭 | [**dormouse**](https://github.com/ChuprinaDaria/dormouse) | Ukrainian text optimizer for LLMs — 73% token savings, 150% quality. `pip install dormouse-ua` [![PyPI](https://img.shields.io/pypi/v/dormouse-ua?style=flat-square&color=blue)](https://pypi.org/project/dormouse-ua/) |
 | 🔧 | [**Vibecode-Cleaner-Fartrun**](https://github.com/ChuprinaDaria/Vibecode-Cleaner-Fartrun) | Rust-powered code scanner with 29 MCP tools. Not another AI reviewing AI. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/vibecode-cleaner-fartrun) |
-| 📖 | [**Not-Awesome-Claude-N.-Bohatska**](https://github.com/dchuprina/-Not-Awesome-Claude-N.-Bohatska) | Most useless repos that make your Claude an idiot. Anti-patterns for RAG systems. |
 | 🗓 | [**mcp-ukrainian-calendar**](https://github.com/ChuprinaDaria/mcp-ukrainian-calendar) | MCP server for Ukrainian pagan calendar — holidays, deities, folk wisdom. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/mcp-ukrainian-calendar) |
 
 ---
@@ -67,6 +67,7 @@ class Daria:
 ```
 🧠 Learning ML properly (not just calling APIs)
 🛠  Building MCP tools and AI agents
+🐭 Published dormouse-ua — Ukrainian NLP for LLMs
 📚 Reading more papers than a PhD student with a deadline
 ```
 
