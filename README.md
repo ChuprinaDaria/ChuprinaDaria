@@ -6,7 +6,7 @@
 
 Based in Wrocław. I build AI-powered tools for European B2B companies — GDPR-compliant, production-grade, no bullshit architectures.
 
-Currently deep into **AI agents**, **MCP tools**, **RAG pipelines**, and **learning ML** — because apparently building one thing at a time is not an option.
+Currently deep into **AI agents**, **MCP tools**, **RAG pipelines**, **computer vision**, **embedded systems**, and **learning ML** — because apparently building one thing at a time is not an option.
 
 Mom of two. Mass-producing code and humans with equal enthusiasm.
 
@@ -60,9 +60,10 @@ class Daria:
     kids      = 2
     coffee    = float("inf")
 
-    focus     = ["AI Agents", "MCP Tools", "RAG Pipelines"]
+    focus     = ["AI Agents", "MCP Tools", "RAG Pipelines",
+                 "Computer Vision", "Embedded Systems"]
     learning  = ["ML (the math, not just the API calls)"]
-    passion   = ["Embedded Systems", "Linux Kernel"]
+    passion   = ["Linux Kernel", "Raspberry Pi", "ESP32"]
     hero      = "Linus Torvalds"  # unironic
 
     addiction = "sci-fi"  # mass effect > sleep
@@ -79,7 +80,9 @@ class Daria:
 
 ```
 🧠 Learning ML properly (not just calling APIs)
-🛠  Building MCP tools and AI agents
+🛠  Building MCP tools, AI agents, and CV pipelines
+👁  Person detection + pose estimation (YOLO + MediaPipe)
+🔌 Embedded: ESP32, Raspberry Pi, GPIO, sensors
 🐭 Published dormouse-ua — Ukrainian NLP for LLMs
 📚 Reading more papers than a PhD student with a deadline
 ```
