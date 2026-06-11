@@ -2,7 +2,7 @@
 
 # Daria Chuprina
 
-**AI Engineer. Obsessed with soldering and programming gadgets out of duct tape and scrap. Building things that actually work.**
+**AI Engineer. Obsessed with soldering and programming gadgets out of literal garbage. Building things that actually work.**
 
 Based in Wrocław. I build AI-powered tools for European B2B companies — GDPR-compliant, production-grade, no bullshit architectures.
 
