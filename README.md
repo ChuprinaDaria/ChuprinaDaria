@@ -6,7 +6,7 @@
 
 Based in Wrocław. I fine-tune vision models, build the datasets behind them, and ship AI tools for European B2B companies: GDPR-compliant, production-grade, no bullshit architectures.
 
-Currently deep into **computer vision**, **model fine-tuning**, **datasets & evaluation**, **AI agents**, **MCP tools** and **embedded systems** - because apparently building one thing at a time is not an option.
+Currently deep into **defence tech**, **computer vision**, **model fine-tuning**, **datasets & evaluation**, **AI agents**, **MCP tools** and **embedded systems** - because apparently building one thing at a time is not an option.
 
 Mom of two. Mass-producing code and humans with equal enthusiasm.
 
@@ -57,7 +57,7 @@ class Daria:
     kids      = 2
     coffee    = float("inf")
 
-    focus     = ["Computer Vision", "Model Fine-tuning",
+    focus     = ["Defence Tech", "Computer Vision", "Model Fine-tuning",
                  "Datasets & Evaluation", "AI Agents", "MCP Tools"]
     learning  = ["edge export: ONNX -> Hailo", "MLOps"]
     passion   = ["Linux Kernel", "Raspberry Pi", "ESP32"]
@@ -76,6 +76,7 @@ class Daria:
 ### `> currently`
 
 ```
+🛡  Defence tech: computer vision (details stay private)
 🎯 Fine-tuning detection and retrieval models (YOLO, SigLIP + ArcFace/SupCon)
 🔎 Visual product search: recall@1 57 -> 73 after fine-tuning
 🧪 Synthetic training data: Blender + domain randomization, mixed synth/real
