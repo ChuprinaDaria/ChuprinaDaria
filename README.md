@@ -44,6 +44,8 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 
 ### `> featured`
 
+[![WAWTech 2026 - Speaker](https://img.shields.io/badge/WAWTech_2026-Speaker-B4E33D?style=flat-square)](https://wawtech.io/2026/speakers) **[WAWTech 2026](https://wawtech.io/2026/speakers)** - speaker, 26-27 November, EXPO XXI, Warsaw.
+
 [![DOU - Tech Article of the Month](https://img.shields.io/badge/DOU-Tech_Article_of_the_Month-EE3124?style=flat-square)](https://dou.ua/forums/topic/59337/) **[Як я зекономила 50-73% на GPT API, бо в мене комп зі смітника](https://dou.ua/forums/topic/59337/)** - про `dormouse-ua`, написаний на Phenom II 2009 року.
 
 ---
