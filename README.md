@@ -2,32 +2,29 @@
 
 # Daria Chuprina
 
-**AI Engineer. Obsessed with soldering and programming gadgets out of literal garbage. Building things that actually work.**
+**ML / Computer Vision Engineer. Obsessed with soldering and programming gadgets out of literal garbage. Building things that actually work.**
 
-Based in Wrocław. I build AI-powered tools for European B2B companies — GDPR-compliant, production-grade, no bullshit architectures.
+Based in Wrocław. I fine-tune vision models, build the datasets behind them, and ship AI tools for European B2B companies: GDPR-compliant, production-grade, no bullshit architectures.
 
-Currently deep into **AI agents**, **MCP tools**, **RAG pipelines**, **computer vision**, **embedded systems**, and **learning ML** — because apparently building one thing at a time is not an option.
+Currently deep into **computer vision**, **model fine-tuning**, **datasets & evaluation**, **AI agents**, **MCP tools** and **embedded systems** - because apparently building one thing at a time is not an option.
 
 Mom of two. Mass-producing code and humans with equal enthusiasm.
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics_YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![FastMCP](https://img.shields.io/badge/FastMCP-FF6F00?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </div>
 
@@ -37,17 +34,17 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 
 | | Project | About |
 |---|---|---|
-| 🎩 | [**jeeves**](https://github.com/ChuprinaDaria/jeeves) | Self-hosted multi-tenant AI assistant — RAG, 9 MCP tools, 5 messaging channels. Django 5 + React 19. ELv2. |
-| 🪟 | [**nadya-vitrazh**](https://github.com/ChuprinaDaria/nadya-vitrazh) | Interactive stained-glass installation — YOLO person detection + MediaPipe pose + state machine. [![HF Space — live test](https://img.shields.io/badge/🤗_HF_Space-live_test-yellow?style=flat-square)](https://huggingface.co/spaces/Dariachup/vitrazh-live) |
-| 🐭 | [**dormouse**](https://github.com/ChuprinaDaria/dormouse) | Ukrainian text optimizer for LLMs — 73% token savings, 150% quality. `pip install dormouse-ua` [![PyPI](https://img.shields.io/pypi/v/dormouse-ua?style=flat-square&color=blue)](https://pypi.org/project/dormouse-ua/) |
+| 🪟 | [**nadya-vitrazh**](https://github.com/ChuprinaDaria/nadya-vitrazh) | Interactive stained-glass installation - YOLO person detection + MediaPipe pose + state machine. [![HF Space - live test](https://img.shields.io/badge/🤗_HF_Space-live_test-yellow?style=flat-square)](https://huggingface.co/spaces/Dariachup/vitrazh-live) |
+| 🐭 | [**dormouse**](https://github.com/ChuprinaDaria/dormouse) | Ukrainian text optimizer for LLMs - 73% token savings, 150% quality. `pip install dormouse-ua` [![PyPI](https://img.shields.io/pypi/v/dormouse-ua?style=flat-square&color=blue)](https://pypi.org/project/dormouse-ua/) |
 | 🔧 | [**Vibecode-Cleaner-Fartrun**](https://github.com/ChuprinaDaria/Vibecode-Cleaner-Fartrun) | Rust-powered code scanner with 29 MCP tools. Not another AI reviewing AI. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/vibecode-cleaner-fartrun) |
-| 🗓 | [**mcp-ukrainian-calendar**](https://github.com/ChuprinaDaria/mcp-ukrainian-calendar) | MCP server for Ukrainian pagan calendar — holidays, deities, folk wisdom. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/mcp-ukrainian-calendar) |
+| 🪢 | [**knot-detector**](https://github.com/ChuprinaDaria/knot-detector) | Real-time knot-tying detection: MediaPipe HandLandmarker + heuristic. In-browser demo + Python prototype. |
+| 🗓 | [**mcp-ukrainian-calendar**](https://github.com/ChuprinaDaria/mcp-ukrainian-calendar) | MCP server for Ukrainian pagan calendar - holidays, deities, folk wisdom. [![Listed on mcpservers.org](https://img.shields.io/badge/mcpservers.org-listed-blue?style=flat-square)](https://mcpservers.org/servers/chuprinadaria/mcp-ukrainian-calendar) |
 
 ---
 
 ### `> featured`
 
-[![DOU — Tech Article of the Month](https://img.shields.io/badge/DOU-Tech_Article_of_the_Month-EE3124?style=flat-square)](https://dou.ua/forums/topic/59337/) **[Як я зекономила 50-73% на GPT API, бо в мене комп зі смітника](https://dou.ua/forums/topic/59337/)** — про `dormouse-ua`, написаний на Phenom II 2009 року.
+[![DOU - Tech Article of the Month](https://img.shields.io/badge/DOU-Tech_Article_of_the_Month-EE3124?style=flat-square)](https://dou.ua/forums/topic/59337/) **[Як я зекономила 50-73% на GPT API, бо в мене комп зі смітника](https://dou.ua/forums/topic/59337/)** - про `dormouse-ua`, написаний на Phenom II 2009 року.
 
 ---
 
@@ -56,13 +53,13 @@ Mom of two. Mass-producing code and humans with equal enthusiasm.
 ```python
 class Daria:
     location  = "Wrocław, PL"
-    role      = "AI Engineer"
+    role      = "ML / CV Engineer"
     kids      = 2
     coffee    = float("inf")
 
-    focus     = ["AI Agents", "MCP Tools", "RAG Pipelines",
-                 "Computer Vision", "Embedded Systems"]
-    learning  = ["ML (the math, not just the API calls)"]
+    focus     = ["Computer Vision", "Model Fine-tuning",
+                 "Datasets & Evaluation", "AI Agents", "MCP Tools"]
+    learning  = ["edge export: ONNX -> Hailo", "MLOps"]
     passion   = ["Linux Kernel", "Raspberry Pi", "ESP32"]
     hero      = "Linus Torvalds"  # unironic
 
@@ -79,12 +76,13 @@ class Daria:
 ### `> currently`
 
 ```
-🧠 Learning ML properly (not just calling APIs)
-🛠  Building MCP tools, AI agents, and CV pipelines
-👁  Person detection + pose estimation (YOLO + MediaPipe)
-🔌 Embedded: ESP32, Raspberry Pi, GPIO, sensors
-🐭 Published dormouse-ua — Ukrainian NLP for LLMs
-📚 Reading more papers than a PhD student with a deadline
+🎯 Fine-tuning detection and retrieval models (YOLO, SigLIP + ArcFace/SupCon)
+🔎 Visual product search: recall@1 57 -> 73 after fine-tuning
+🧪 Synthetic training data: Blender + domain randomization, mixed synth/real
+🗂  Dataset pipelines: harvesting, CLIP dedup, Grounding DINO pre-labeling, human review
+💎 Photo -> castable 3D jewelry: SAM 2, Depth Anything V2, photometric stereo, Blender
+🤖 AI agents and MCP tools in production
+🔌 Embedded: Raspberry Pi, ESP32, sensors
 ```
 
 ---
@@ -93,7 +91,7 @@ class Daria:
 
 *«Бо треба не всякою х\*йнею займатися, а жити інтєрєсно: читати книжки, бути шпіоном, дресирувати любіму обізьяну»*
 
-**— Лесь Подерев'янський**
+**- Лесь Подерев'янський**
 
 <br>
 
